@@ -1,0 +1,15 @@
+loop2.bat FRESH\abrown:(I)(F)
+          BUILTIN\Administrators:(I)(F)
+          FRESH\EPIC:(I)(RX)
+          FRESH\Marketing:(I)(RX)
+          FRESH\Trainees:(I)(RX)
+          FRESH\Staff:(I)(RX)
+          FRESH\cfarquharson:(I)(F)
+          FRESH\Web Developer:(I)(RX)
+          FRESH\Administrator:(I)(F)
+          FRESH\Domain Admins:(I)(F)
+          S-1-5-21-521946058-3318069972-4277441618-1001:(I)(F)
+          NT AUTHORITY\SYSTEM:(I)(F)
+          BUILTIN\Users:(I)(RX)
+
+Successfully processed 1 files; Failed processing 0 files

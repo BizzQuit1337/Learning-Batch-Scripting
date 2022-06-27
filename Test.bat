@@ -1,0 +1,15 @@
+@ECHO OFF
+COLOR 01
+ECHO hello world!
+TIMEOUT 10
+COLOR 02
+ECHO hello world!
+TIMEOUT 10
+COLOR 03
+ECHO hello world!
+TIMEOUT 10
+COLOR 04
+ECHO hello world!
+TIMEOUT 10
+PAUSE
+COLOR 07
